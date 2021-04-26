@@ -1,9 +1,9 @@
 /**
- * @author hsq
+ * @author cyq
  */
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("流星会下雨");
+        System.out.println("HELLO");
 
 
          /*byte数据的范围*/
